@@ -7,5 +7,3 @@ Shradha khapra
 
 # student
 Himanshu
-Sohan
-Adarsh Krishna
